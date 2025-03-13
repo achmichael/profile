@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://achmichael.my.id/sitemap.xml
